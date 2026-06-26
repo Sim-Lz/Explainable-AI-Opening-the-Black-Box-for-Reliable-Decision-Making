@@ -1,0 +1,12 @@
+{
+  "n_runs": 3,
+  "rehead_T_AUC_mean": 0.8097326649958229,
+  "rehead_T_AUC_std": 0.009895136440881143,
+  "rehead_T_PR_AUC_mean": 0.8838237866895646,
+  "rehead_T_PR_AUC_std": 0.0019567790299579117,
+  "seeds": [
+    42,
+    123,
+    777
+  ]
+}

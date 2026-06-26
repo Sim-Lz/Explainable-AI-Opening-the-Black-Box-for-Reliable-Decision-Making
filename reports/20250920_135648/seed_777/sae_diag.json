@@ -1,0 +1,8 @@
+{
+  "recon_MSE_train": 0.04259016737341881,
+  "recon_MSE_test": 0.06774601340293884,
+  "sparsity_rate_train": 0.5033196210861206,
+  "sparsity_rate_test": 0.48751336336135864,
+  "mean_abs_code_train": 0.4521641731262207,
+  "mean_abs_code_test": 0.447965145111084
+}
