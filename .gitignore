@@ -4,9 +4,10 @@
 # Files
 README.md
 requirements.txt
-struttura_repo.ipynb
-ultimi_risultati.txt
 
 # Folders
 src/
 data/
+
+# Virtual environment
+.venv/
